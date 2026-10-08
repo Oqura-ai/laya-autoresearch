@@ -1,0 +1,20 @@
+{"id":"ticket-01","group_id":"thread-01","state":"How do I rename an export?","expected":{"team":"support","escalate":false,"urgency":0}}
+{"id":"ticket-02","group_id":"thread-02","state":"Please explain the annual invoice.","expected":{"team":"accounts","escalate":false,"urgency":0}}
+{"id":"ticket-03","group_id":"thread-03","state":"Exports fail and our shipment is due tomorrow.","expected":{"team":"support","escalate":true,"urgency":2}}
+{"id":"ticket-04","group_id":"thread-04","state":"I was charged twice; please investigate this week.","expected":{"team":"accounts","escalate":true,"urgency":1}}
+{"id":"ticket-05","group_id":"thread-05","state":"Where can I find the import instructions?","expected":{"team":"support","escalate":false,"urgency":0}}
+{"id":"ticket-06","group_id":"thread-06","state":"Can we change our billing address?","expected":{"team":"accounts","escalate":false,"urgency":0}}
+{"id":"ticket-07","group_id":"thread-07","state":"Importing a file crashes the production workspace.","expected":{"team":"support","escalate":true,"urgency":2}}
+{"id":"ticket-08","group_id":"thread-08","state":"Our renewal is tomorrow and the payment was rejected.","expected":{"team":"accounts","escalate":true,"urgency":2}}
+{"id":"ticket-09","group_id":"thread-09","state":"Can you show me how the filter works?","expected":{"team":"support","escalate":false,"urgency":0}}
+{"id":"ticket-10","group_id":"thread-10","state":"Please send a copy of last month's receipt.","expected":{"team":"accounts","escalate":false,"urgency":0}}
+{"id":"ticket-11","group_id":"thread-11","state":"The report is missing rows and my review is this afternoon.","expected":{"team":"support","escalate":true,"urgency":2}}
+{"id":"ticket-12","group_id":"thread-12","state":"The tax amount appears incorrect; can someone review it?","expected":{"team":"accounts","escalate":true,"urgency":1}}
+{"id":"ticket-13","group_id":"thread-13","state":"Is there a dark theme setting?","expected":{"team":"support","escalate":false,"urgency":0}}
+{"id":"ticket-14","group_id":"thread-14","state":"What is included in the monthly plan?","expected":{"team":"accounts","escalate":false,"urgency":0}}
+{"id":"ticket-15","group_id":"thread-15","state":"Scheduled exports stopped this morning; we need them today.","expected":{"team":"support","escalate":true,"urgency":2}}
+{"id":"ticket-16","group_id":"thread-16","state":"A refund promised last week has not arrived.","expected":{"team":"accounts","escalate":true,"urgency":1}}
+{"id":"ticket-17","group_id":"thread-17","state":"Where is the chart documentation?","expected":{"team":"support","escalate":false,"urgency":0}}
+{"id":"ticket-18","group_id":"thread-18","state":"How do I download an invoice PDF?","expected":{"team":"accounts","escalate":false,"urgency":0}}
+{"id":"ticket-19","group_id":"thread-19","state":"The chart displays another customer's data; investigate immediately.","expected":{"team":"support","escalate":true,"urgency":2}}
+{"id":"ticket-20","group_id":"thread-20","state":"Our account is suspended despite payment; tomorrow's delivery depends on access.","expected":{"team":"accounts","escalate":true,"urgency":2}}

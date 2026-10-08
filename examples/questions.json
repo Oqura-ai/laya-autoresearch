@@ -1,0 +1,5 @@
+{
+  "team": {"type": "choice", "instructions": "Which team should handle this request?", "criteria": {"support": "Product errors and usage questions", "accounts": "Billing and account administration"}},
+  "escalate": {"type": "noul", "instructions": "Does the request require a human specialist?"},
+  "urgency": {"type": "score", "instructions": "How urgent is resolving the request?", "criteria": ["Routine", "Time-sensitive", "Blocking a near-term commitment"]}
+}
